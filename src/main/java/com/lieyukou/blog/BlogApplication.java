@@ -11,6 +11,8 @@ public class BlogApplication {
         SpringApplication.run(BlogApplication.class, args);
         System.out.println("second ");
         System.out.println("4 ");
+        System.out.println("hot-fix test!");
+
     }
 
 }
