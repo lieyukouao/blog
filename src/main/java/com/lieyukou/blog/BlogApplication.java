@@ -13,6 +13,7 @@ public class BlogApplication {
         System.out.println("4 ");
         System.out.println("hot-fix test!");
         System.out.println("hot-fix test!");
+        System.out.println("pull test!");
 
     }
 
